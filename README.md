@@ -4,11 +4,12 @@
   - Computer Vision
   - Backend Development
 - 🌱 I’m currently learning:
-  - Meta-Learning
   - Diffusion Models
+  - Microservice Architecture
 - 💞️ I’m looking to collaborate on 
   - Deep Learning
   - Computer Vision
+  - Web Application
 - 📫 How to reach me
   - koh.tongliang@gmail.com
   - www.linkedin.com/in/tong-liang-koh-1a00a9101
