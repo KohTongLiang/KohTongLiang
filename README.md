@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @KohTongLiang
 - 👀 I’m interested in:
-  - Deep Learning
-  - Computer Vision
+  - Deep Learning and Computer Vision
   - Backend Development
+  - Cloud and Infrastructure
 - 🌱 I’m currently learning:
-  - Diffusion Models
   - Microservice Architecture
 - 💞️ I’m looking to collaborate on 
-  - Deep Learning
-  - Computer Vision
-  - Web Application
+  - Cloud and Infrastructure
+  - Backend Development
 - 📫 How to reach me
   - koh.tongliang@gmail.com
   - www.linkedin.com/in/tong-liang-koh-1a00a9101
