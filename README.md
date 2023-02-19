@@ -9,7 +9,6 @@
   - Cloud and Infrastructure
   - Backend Development
 - 📫 How to reach me
-  - koh.tongliang@gmail.com
   - www.linkedin.com/in/tong-liang-koh-1a00a9101
 
 <!---
