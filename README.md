@@ -1,13 +1,10 @@
 - 👋 Hi, I’m @KohTongLiang
 - 👀 I’m interested in:
   - Deep Learning and Computer Vision
-  - Backend Development
   - Cloud and Infrastructure
+  - Web Applications Development
 - 🌱 I’m currently learning:
   - Microservice Architecture
-- 💞️ I’m looking to collaborate on 
-  - Cloud and Infrastructure
-  - Backend Development
 - 📫 How to reach me
   - www.linkedin.com/in/tong-liang-koh-1a00a9101
 
