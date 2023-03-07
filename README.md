@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KohTongLiang
 - 👀 I’m interested in:
   - Deep Learning and Computer Vision
-  - Cloud and Infrastructure
   - Web Applications Development
 - 🌱 I’m currently learning:
   - Microservice Architecture
