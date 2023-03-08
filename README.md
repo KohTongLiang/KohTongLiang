@@ -2,8 +2,7 @@
 - 👀 I’m interested in:
   - Deep Learning and Computer Vision
   - Web Applications Development
-- 🌱 I’m currently learning:
-  - Microservice Architecture
+  - Games
 - 📫 How to reach me
   - www.linkedin.com/in/tong-liang-koh-1a00a9101
 
